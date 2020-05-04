@@ -5,4 +5,6 @@ Example for one image.
 
 Input tiff file for jan from the folder "original tiff file" :-
 
-![](Original%20Imgs/wc2.1_10m_tmin_01.tif) 
+![Original Jan Image](Original%20Imgs/wc2.1_10m_tmin_01.tif) 
+
+Processed Image representing the visualisation:-
