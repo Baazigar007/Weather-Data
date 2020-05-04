@@ -3,4 +3,6 @@ Here we visualise the minimum temperature of every place on earth for each month
 
 Example for one image.
 
-Input tiff file for jan-
+Input tiff file for jan from the folder "original tiff file" :-
+
+![](Original%20Imgs/wc2.1_10m_tmin_01.tif) 
