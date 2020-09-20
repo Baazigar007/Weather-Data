@@ -3,9 +3,9 @@ Here we visualise the minimum temperature of every place on earth for each month
 
 Example for one image.
 
-Input tiff file for jan from the folder "original tiff file" :-
+Original Image (Tiff Image has been converted to png for readme.md , Original geotiff Images can be found in Images folder above.):-
 
-![Original Jan Image (Tiff Image has been converted to png for readme.md , Original geotiff Images can be found in Images folder above.)](https://github.com/Baazigar007/Weather-Data-Min-Temp/blob/master/Original%20Imgs/Sample_Image.png) 
+![Original Jan Image ](https://github.com/Baazigar007/Weather-Data-Min-Temp/blob/master/Original%20Imgs/Sample_Image.png) 
 
 
 Processed Image representing the visualisation:-
