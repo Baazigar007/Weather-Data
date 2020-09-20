@@ -5,7 +5,7 @@ Example for one image.
 
 Input tiff file for jan from the folder "original tiff file" :-
 
-![Original Jan Image](Original%20Imgs/wc2.1_10m_tmin_01.tif) 
+![Original Jan Image (Tiff Image has been converted to png for readme.md , Original geotiff Images can be found in Images folder above.)](https://github.com/Baazigar007/Weather-Data-Min-Temp/blob/master/Original%20Imgs/Sample_Image.png) 
 
 
 Processed Image representing the visualisation:-
